@@ -1,1 +1,2 @@
 This is the first file uploaded to Git
+Changes to this file in branch1 only
